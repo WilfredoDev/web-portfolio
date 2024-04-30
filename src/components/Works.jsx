@@ -51,11 +51,11 @@ const ProjectCard = ({
 
         <div className="mt-4 flex flex-wrap gap-2">
           {tags.map((tag) => (
-            <div class={`relative grid select-none items-center whitespace-nowrap rounded-lg ${tag.color} py-1.5 px-3 font-sans text-xs font-bold uppercase text-white`}>
-              <div class="absolute top-2/4 left-1.5 h-5 w-5 -translate-y-2/4">
+            <div className={`relative grid select-none items-center whitespace-nowrap rounded-lg ${tag.color} py-1.5 px-3 font-sans text-xs font-bold uppercase text-white`}>
+              <div className="absolute top-2/4 left-1.5 h-5 w-5 -translate-y-2/4">
                 <img src={tag.icon} alt="{tag.name}" />
               </div>
-              <span class="ml-[18px]">{tag.name}</span>
+              <span className="ml-[18px]">{tag.name}</span>
             </div>
           ))}
         </div>

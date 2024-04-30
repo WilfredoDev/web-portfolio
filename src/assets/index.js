@@ -20,15 +20,15 @@ import mysql from './tech/mysql.png'
 import laravel from './tech/laravel.png'
 import php from './tech/php.png'
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import redmasiva from './company/redmasiva.png'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
+import isboset from './testimonials/isboset.jpg';
+import omar from './testimonials/omar.jpg';
+import samuel from './testimonials/samuel.png';
 
 export {
   logo,
@@ -51,12 +51,11 @@ export {
   nodejs,
   reactjs,
   tailwind,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   redmasiva,
   carrent,
   jobit,
   tripguide,
+  isboset,
+  omar,
+  samuel
 };
