@@ -9,6 +9,7 @@ import {
     tailwind,
     nodejs,
     mysql,
+    express,
     laravel,
     php,
     mongodb,
@@ -16,11 +17,11 @@ import {
     docker,
     redmasiva,
     carrent,
-    jobit,
     tripguide,
+    sociopedia,
     isboset,
     omar,
-    samuel
+    samuel,
   } from "../assets";
   
   export const navLinks = [
@@ -186,7 +187,7 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Social Media App",
+      name: "Sociopedia",
       description:
         "Web interface that simulates a clone of a social network such as Facebook and allows you interaction in real time with functions such as chatting, likes, publications and comments",
       tags: [
@@ -205,9 +206,14 @@ import {
           color: "pink-text-gradient",
           icon: mongodb
         },
+        {
+          name: "express",
+          color: '',
+          icon: express
+        }
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: sociopedia,
+      source_code_link: "https://github.com/WilfredoDev/socialApp",
     },
     {
       name: "Control Task Panel",
