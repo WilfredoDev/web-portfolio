@@ -15,6 +15,7 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import express from "./tech/express-logo.png";
 import tailwind from "./tech/tailwind.png";
 import mysql from './tech/mysql.png'
 import laravel from './tech/laravel.png'
@@ -23,8 +24,8 @@ import php from './tech/php.png'
 import redmasiva from './company/redmasiva.png'
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import sociopedia from "./sociopedia.png";
 
 import isboset from './testimonials/isboset.jpg';
 import omar from './testimonials/omar.jpg';
@@ -42,6 +43,7 @@ export {
   css,
   php,
   laravel,
+  express,
   docker,
   mysql,
   git,
@@ -53,7 +55,7 @@ export {
   tailwind,
   redmasiva,
   carrent,
-  jobit,
+  sociopedia,
   tripguide,
   isboset,
   omar,
