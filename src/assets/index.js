@@ -23,9 +23,9 @@ import php from './tech/php.png'
 
 import redmasiva from './company/redmasiva.png'
 
-import carrent from "./carrent.png";
 import tripguide from "./tripguide.png";
 import sociopedia from "./sociopedia.png";
+import shopsy from "./shopsy.png";
 
 import isboset from './testimonials/isboset.jpg';
 import omar from './testimonials/omar.jpg';
@@ -54,7 +54,7 @@ export {
   reactjs,
   tailwind,
   redmasiva,
-  carrent,
+  shopsy,
   sociopedia,
   tripguide,
   isboset,

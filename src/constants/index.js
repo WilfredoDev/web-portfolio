@@ -16,8 +16,8 @@ import {
     git,
     docker,
     redmasiva,
-    carrent,
     tripguide,
+    shopsy,
     sociopedia,
     isboset,
     omar,
@@ -158,9 +158,9 @@ import {
   
   const projects = [
     {
-      name: "Ecommerce",
+      name: "Shopsy-Ecommerce",
       description:
-        "Web-based platform which allows users to view a catalog of products, make online purchases and manage a unique customer profile. ",
+        "Web-based platform which allows users to view a catalog of products, make online purchases",
       tags: [
         {
           name: "react",
@@ -168,23 +168,28 @@ import {
           icon: reactjs
         },
         {
+          name: "MongoDB",
+          color: "green-text-gradient",
+          icon: mongodb
+        },
+        {
           name: "tailwind",
           color: "pink-text-gradient",
           icon: tailwind
-        },
-        {
-          name: "MySQL",
-          color: "blue-text-gradient",
-          icon: mysql
         },
         {
           name: "NodeJs",
           color: "green-text-gradient",
           icon: nodejs
         },
+        {
+          name: "express",
+          color: '',
+          icon: express
+        }
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: shopsy,
+      source_code_link: "https://github.com/WilfredoDev/Shopsy-Ecommerce",
     },
     {
       name: "Sociopedia",
