@@ -1,8 +1,15 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Wilfredo Pinto Web Portfolio
 
-Currently, two official plugins are available:
+Welcome to my web portfolio! I'm Wilfredo, a passionate web developer proficient in JavaScript, PHP, and with a working knowledge of Python. This portfolio showcases some of the projects I've worked on, highlighting my skills in developing dynamic and responsive web applications. I have experience working with frameworks such as Laravel, React, Node.js, Express, Django, and Tailwind. Through these projects, you can see my dedication to creating innovative and efficient solutions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Demo
+
+https://web-portfolio-psi-ashy.vercel.app/
+
+
+## Authors
+
+- [@wilfredoDev](https://github.com/WilfredoDev)
+
